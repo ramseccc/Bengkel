@@ -1,0 +1,63 @@
+<resources>
+    //Nama Bengkel dan menu dropdown
+    <string name="app_name">Bengkel</string>
+    <string name="dropdown_home">Home</string>
+    <string name="dropdown_activity">Activity</string>
+    <string name="dropdown_chat">Chat</string>
+    <string name="dropdown_profile">Profile</string>
+
+    //Content Description
+    <string name="profile_icon">Profile Icon</string>
+    <string name="bg_name">Olivia Wilson</string>
+    <string name="search_icon">Search Icon</string>
+
+    //CRUD Page
+    <string name="app_customer">Customer</string>
+    <string name="app_pilih">Pilih</string>
+    <string name="app_email">Email</string>
+    <string name="app_emailerror">Email Error</string>
+    <string name="app_password">Password</string>
+    <string name="app_confirm">Confirm Password</string>
+    <string name="app_passworderror">Password Error</string>
+    <string name="app_forgotten">Forgotten Password?</string>
+    <string name="app_titlesignin">LOGIN</string>
+    <string name="app_login">Login</string>
+    <string name="app_signin"> Sign in</string>
+    <string name="app_search">Search</string>
+
+    //Make Acc Page
+    <string name="app_acc">Have an Account?</string>
+    <string name="app_signup">Sign Up</string>
+    <string name="app_titlesignup">SIGN UP</string>
+    <string name="app_create">Daftar</string>
+    <string name="app_createacc">DAFTAR AKUN</string>
+    <string name="app_make">Sudah punya akun? Login</string>
+    <string name="app_error">Error</string>
+    <string name="app_fullname">Nama Lengkap</string>
+    <string name="app_phonenum">No Hp</string>
+
+    //Kategori Transportasi
+    <string name="app_bengkel">Bengkel</string>
+    <string name="app_bengkeldarurat">BENGKEL DARURAT</string>
+    <string name="app_bengkelmobil">Bengkel Mobil</string>
+    <string name="app_bengkelmotor">Bengkel Motor</string>
+    <string name="app_tambalban">Tambal Ban Darurat</string>
+
+    // Text
+    <string name="text_dist">Jarak</string>
+    <string name="text_dist_1">Jarak 1,1 km</string>
+    <string name="text_pick">Pilih</string>
+    <string name="text_pop">Popularitas</string>
+    <string name="text_rate">Rating</string>
+    <string name="text_com">Selalu siap panggilan darurat, kapan pun dan di mana pun Anda butuhkan!</string>
+    <string name="text_service">Bengkel mas Bejo</string>
+    <string name="text_service1">Bengkel mas Tejo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_chat">LIVE CHAT</string>
+    <string name="app_person">OLIVIA WATSON</string>
+    <string name="app_profile_title">PROFILE</string>
+    <string name="customer_support">CUSTOMER SUPPORT</string>
+    <string name="todo">TODO</string>
+</resources>
